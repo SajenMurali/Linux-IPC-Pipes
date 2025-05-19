@@ -1,10 +1,3 @@
-# Linux-IPC--Pipes
-Linux-IPC-Pipes
-
-Name: Sajen Murali
-
-Regno: 212223220089
-
 # Ex03-Linux IPC - Pipes
 
 # AIM:
